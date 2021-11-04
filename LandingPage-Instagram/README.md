@@ -1,7 +1,7 @@
 # Bootcamp - Javascript Game Developer
 
 <p align="center">
-  <img src="" width="150" height="150"/>
+  <img src="https://raw.githubusercontent.com/kevenalves/Dio-Javascript-Game-Developer/main/logo.png" width="150" height="150"/>
 </p>
 
 ## 🚀 Descrição
