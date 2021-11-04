@@ -12,5 +12,6 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
 
 ## 🔧 Principais projetos desenvolvidos:
   - [Instagram Page Login Clone](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/LandingPage-Instagram)
+  - [Snake Game](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/Snake-Game)
 
 ## 🚧 Repositório em contrução! 🚧
