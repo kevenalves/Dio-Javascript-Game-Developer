@@ -8,7 +8,7 @@
 Jogo estilo 'Genius' desenvolvido com Javascript puro.
 Projeto focado na fixação de conceitos da linguagem, váriaveis, funções, arrays, manipulação do DOM, etc...
 <br />
-Veja o projeto de forma interativa: [Genius]()
+Veja o projeto de forma interativa: [Genius](https://genius-game-kev.netlify.app/)
 
 ## 🔧 Alterações realizadas no projeto
  - Correção do Bug onde a cor permanecia selecionada.
