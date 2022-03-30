@@ -13,7 +13,7 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - Criação de websites com HTML5 e CSS3
   - Programação para internet com Javascript
   - Construindo páginas para a internet com Bootstrap
-  - ES6
+  - Javascript ES6 Essencial
     - História e conceitos
     - Curring, Hoisting, Imutabilidade, Tipos e Variáveis
     - Funções e operadores
@@ -26,6 +26,6 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
 ## 🔧 Principais projetos desenvolvidos:
   - [Instagram Page Login Clone](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/LandingPage-Instagram)
   - [Snake Game](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/Snake-Game)
-  - [Genius Game]()
+  - [Genius Game](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/Genius-Game)
 
 ## 🚧 Repositório em contrução! 🚧
