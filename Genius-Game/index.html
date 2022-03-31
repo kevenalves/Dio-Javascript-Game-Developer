@@ -5,11 +5,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Dio - Genius</title>
+    <title>Genius Memories</title>
 </head>
 <body>
 
+    <div class="menu">
+        <h1>Bem vindo ao Genius memories!</h1>
+
+        <li class="content__item">
+            <button class="button button--anthe" onclick="iniciar()"><span>Começar</span></button>
+        </li>
+    </div>
+
+
     <div class="main-game">
+
+        <p>Rodada: <span class="point"></span></p>
         <div class="genius">
             <div class="blue"></div>
             <div class="purple"></div>
@@ -17,6 +28,11 @@
             <div class="green"></div>
         </div>
     </div>
+
+
+    <div id="container"></div>
+
+
 
 <script src="./script.js"></script>
 </body>
