@@ -16,6 +16,7 @@ Veja o projeto de forma interativa: [Genius](https://genius-game-kev.netlify.app
  - Responsividade para mobile.
  - Mudança no click ao selecionar as cores.
  - Mensagens toast-notification personalizadas ao acerta 'X' sequência de acertos.
+ - Mensagem popup de game over
 
 ## 🖥️ preview final do projeto
 
