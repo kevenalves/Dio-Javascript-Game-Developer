@@ -105,20 +105,28 @@ let nextLevel = () => {
     attScore();
 }
 
-//funcao para game over
-let gameOver = () => {
-    alert(`Pontuação final: ${score}\nVocê perdeu! :(\nClique em OK para iniciar um novo jogo!`);
-    order = [];
-    clickedOrder = [];
+// Função Game Over e popup de Game Over
+const popupGameOver = document.getElementById("gameOver");
 
-    playGame();
+let gameOver = () => {
+    popupGameOver.classList.add("active");
 }
 
 //funcao de inicio do jogo
+const menu = document.querySelector('.menu');
+
 let playGame = () => {
     score = 0;
+    order = [];
+    clickedOrder = [];
 
-    nextLevel();
+    menu.classList.add('none');
+    popupGameOver.classList.remove("active");
+
+    setTimeout(() => {
+        nextLevel();
+        attScore();
+    }, 200);
 }
 
 //eventos de clique para as cores
@@ -127,33 +135,18 @@ red.onclick = () => click(1);
 purple.onclick = () => click(2);
 blue.onclick = () => click(3);
 
-
-//Menu do jogo
-const menu = document.querySelector('.menu');
-
-function iniciar() {
-    menu.classList.add('none');
-
-    setTimeout(() => {
-        playGame();
-        attScore();
-    }, 200);
-}
-
 //Atualiza o número da rodada
 const point = document.querySelector('.point');
 
-function attScore() {
+let attScore = () => {
     point.innerHTML = (score)
 }
-
-
 
 // === Mensagens personalizadas === //
 const container = document.getElementById("container");
 
 // 5 rodadas seguidas
-function msg1() {
+let msg1 = () => {
     const notif = document.createElement("div");
     notif.classList.add("toast");
 
@@ -167,7 +160,7 @@ function msg1() {
 }
 
 // 10 rodadas seguidas
-function msg2() {
+let msg2 = () => {
     const notif = document.createElement("div");
     notif.classList.add("toast");
 
@@ -181,7 +174,7 @@ function msg2() {
 }
 
 // 20 rodadas seguidas
-function msg3() {
+let msg3 = () => {
     const notif = document.createElement("div");
     notif.classList.add("toast");
 
@@ -195,7 +188,7 @@ function msg3() {
 }
 
 // 50 rodadas seguidas
-function msg4() {
+let msg4 = () => {
     const notif = document.createElement("div");
     notif.classList.add("toast");
 
@@ -209,7 +202,7 @@ function msg4() {
 }
 
 // 100 rodadas seguidas
-function msg5() {
+let msg5 = () => {
     const notif = document.createElement("div");
     notif.classList.add("toast");
 
