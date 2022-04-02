@@ -1,15 +1,21 @@
 # Bootcamp - Javascript Game Developer
 
-<p align="center">
+<p align="center" display="flex">
   <img src="logo.png" width="150" height="150"/>
+  <img src="Orbi-logo.png" width="150" height="150"/>
 </p>
 
 ## 🚀 Descrição
-Repositório criado com o objetivo de compartilhar todos os meus projetos e desafios desenvolvidos ao longo do curso Javascript Game Developer.
+Repositório criado com o objetivo de compartilhar todos os meus projetos e desafios desenvolvidos ao longo do bootcamp Javascript Game Developer e do bootcamp Órbi Web Games Developer.
 
 ## 📚 Principais aprendizados até agora:
+  - Pensamento computacional
+    - Decomposição / Reconhecimento de padrões
+    - Abstração e Algoritmos
   - Lógica de programação Essencial
   - Introdução Git e Github
+  - Projetos ágeis com Scrum
+  - Primeiros passos para desenvolvimento web
   - Criação de websites com HTML5 e CSS3
   - Programação para internet com Javascript
   - Construindo páginas para a internet com Bootstrap
