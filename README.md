@@ -7,6 +7,7 @@
 
 ## 🚀 Descrição
 Repositório criado com o objetivo de compartilhar todos os meus projetos e desafios desenvolvidos ao longo do bootcamp Javascript Game Developer e do bootcamp Órbi Web Games Developer.
+</br></br>
 
 ## 📚 Principais aprendizados até agora:
   <details> <summary>Pensamento computacional</summary>
@@ -86,10 +87,15 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
       <li> Arquitetura da internet das coisas, protocolo de comunicação e Cloud </li>
     </ul> </ul>
   </details>
+</br>
 
 ## 🔧 Principais projetos desenvolvidos:
   - [Instagram Page Login Clone](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/LandingPage-Instagram)
   - [Snake Game](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/Snake-Game)
   - [Genius Game](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/Genius-Game)
 
+</br>
+
 ## 🚧 Repositório em contrução! 🚧
+</br> </br> </br>
+<p align="center"><strong>Bootcamp oferecido por: </strong> <a href="https://dio.me/">Digital Innovation One</a> </p>
