@@ -28,6 +28,14 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
     - Criando e manipulando arrays
     - Iterar, buscar e transformar elementos
   - Map, filter e reducer
+  - Fundamentos de arquitetura de sistemas
+    - Web Service
+    - Estrutura SOAP
+    - Entendendo WSDL e XSD
+    - REST, API e JSON
+    - Integração REST e métodos HTTP
+    - Modelos Monolito e Microserviço
+    - Arquitetura da internet das coisas, protocolo de comunicação e Cloud
 
 ## 🔧 Principais projetos desenvolvidos:
   - [Instagram Page Login Clone](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/LandingPage-Instagram)
