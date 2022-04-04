@@ -13,6 +13,7 @@ Veja o projeto de forma interativa: [Snake Game](https://snake-game-kev.netlify.
 ## 🔧 Alterações realizadas no projeto
  - Adição do score no jogo
  - Alterações no design
+ - Adição do pop-up de game over e função de restart
 
 ## 🖥️ preview final do projeto
 
