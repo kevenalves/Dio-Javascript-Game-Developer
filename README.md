@@ -15,13 +15,53 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
       <li> Abstração e Algoritmos </li>
     </ul> </ul>
   </details>
-  <li> Lógica de programação Essencial </li>
-  <li> Introdução Git e Github </li>
-  <li> Projetos ágeis com Scrum </li>
-  <li> Primeiros passos para desenvolvimento web </li>
-  <li> Criação de websites com HTML5 e CSS3 </li>
-  <li> Programação para internet com Javascript </li>
-  <li> Construindo páginas para a internet com Bootstrap </li>
+
+  <details> <summary>Lógica de programação Essencial </summary>
+    <ul> <ul>
+      <li> Algoritmo e pseudocódigo </li>
+      <li> Fluxograma, variáveis e constantes </li>
+      <li> Estrutura de repetição </li>
+      <li> Desvios condicionais e boas práticas </li>
+      <li> Matrizes e vetores </li>
+    </ul> </ul>
+  </details>
+
+  <details> <summary> Introdução Git e Github </summary>
+    <ul> <ul>
+      <li> Entendendo Git / Comandos básicos </li>
+      <li> Como o Git funciona / objetos internos do Git </li>
+      <li> Chave SSH e Token </li>
+      <li> Ciclo de vida </li>
+      <li> Conflitos no Git e como resolve-los </li>
+    </ul> </ul>
+  </details>
+
+  <details> <summary> Projetos ágeis com Scrum </summary>
+    <ul> <ul>
+      <li> Introdução a gestão de projetos com Scrum </li>
+      <li> Papel e responsabilidade de cada integrante do time </li>
+      <li> Cerimônias do Scrum </li>
+      <li> Gestão de projetos tradicionais vs Agil </li>
+      <li> Conceitos e planejamentos de tarefas / Rotina Agil </li>
+    </ul> </ul>
+  </details>
+
+ <details> <summary> Criação de websites com HTML5 e CSS3 </summary>
+    <ul> <ul>
+      <li> Estrutura de uma página Web </li>
+      <li> Semântica </li>
+      <li> HTML5 </li>
+      <li> CSS3 </li>
+    </ul> </ul>
+  </details>
+
+ <details> <summary> Construindo páginas para a internet com Bootstrap </summary>
+    <ul> <ul>
+      <li> Visão geral do Framework </li>
+      <li> Aplicando Bootstrap na prática </li>
+    </ul> </ul>
+  </details>
+
   <details> <summary>Javascript ES6 Essencial</summary>
     <ul> <ul>
       <li> História e conceitos </li>
@@ -30,10 +70,11 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
       <li> Spreed, estruturas condicionais e repetição </li>
       <li> Introdução a orientação a objetos e Design Patterns </li>
       <li> Criando e manipulando arrays </li>
+      <li> Map, filter e reducer </li>
       <li> Iterar, buscar e transformar elementos </li>
     </ul> </ul>
   </details>
-  <li> Map, filter e reducer </li>
+
   <details> <summary>Fundamentos de arquitetura de sistemas</summary>
     <ul> <ul>
       <li> Web Service </li>
