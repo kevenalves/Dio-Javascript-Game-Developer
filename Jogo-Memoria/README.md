@@ -7,7 +7,7 @@
 
 ## 🚀 Descrição
 Jogo da memória desenvolvido durante o Bootcamp Javascript Game Developer.</br>
-Verifique o projeto: [Jogo da Memória]()
+Verifique o projeto: [Jogo da Memória](https://jogodamemoria-kev.netlify.app/)
 </br></br>
 
 ## 🔧 Tecnologias utilizadas:
