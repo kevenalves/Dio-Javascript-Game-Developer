@@ -93,6 +93,7 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - [Instagram Page Login Clone](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/LandingPage-Instagram)
   - [Snake Game](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/Snake-Game)
   - [Genius Game](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/Genius-Game)
+  - [Jogo da Memória](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/Jogo-Memoria)
 
 </br>
 
