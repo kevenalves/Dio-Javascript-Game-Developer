@@ -6,7 +6,7 @@
 </p>
 
 ## 🚀 Descrição
-Repositório criado com o objetivo de compartilhar todos os meus projetos e desafios desenvolvidos ao longo do bootcamp Javascript Game Developer e do bootcamp Órbi Web Games Developer.
+Repositório criado com o objetivo de compartilhar todos os meus projetos e desafios desenvolvidos ao longo do bootcamp <a href="https://www.dio.me/bootcamp/javascript-game-developer?ref=novotec"> Javascript Game Developer</a> e do bootcamp <a href="https://www.dio.me/bootcamp/orbi-web-game-developer?utm_source=pr-bc-orbi-game-developer&utm_medium=pay&utm_campaign=orbi"> Órbi Web Games Developer</a>.
 </br></br>
 
 ## 📚 Principais aprendizados até agora:
@@ -94,9 +94,28 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - [Snake Game](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/Snake-Game)
   - [Genius Game](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/Genius-Game)
   - [Jogo da Memória](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/Jogo-Memoria)
+  - [Jogo da Velha](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/jogoDaVelha)
 
 </br>
 
 ## 🚧 Repositório em contrução! 🚧
-</br> </br> </br>
-<p align="center"><strong>Bootcamp oferecido por: </strong> <a href="https://dio.me/">Digital Innovation One</a> </p>
+
+</br>
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<p align="center" style="background:yellow">
+<a href="https://www.linkedin.com/in/keven-alves-903b0a224/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-kevenalves-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/kevenalvesm" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-kevenalvesm-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="#" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-kevenalvesm@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
+</p>
