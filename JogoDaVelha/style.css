@@ -56,7 +56,7 @@ body .jogoDaVelha h1 {
   font-size: 3.75rem;
   margin: 5px;
   cursor: pointer;
-  color: #eee;
+  color: #e2e1e1;
 }
 
 @media (max-width: 720px) {
