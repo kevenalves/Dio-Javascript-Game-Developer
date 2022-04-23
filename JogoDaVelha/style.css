@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 1080px) {
+  html {
+    font-size: 93.75%;
+  }
+}
+
+@media (max-width: 720px) {
+  html {
+    font-size: 87.5%;
+  }
+}
+
+body {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background: #5CA4EA;
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body .jogoDaVelha {
+  margin-top: 4rem;
+}
+
+@media (max-width: 420px) {
+  body .jogoDaVelha {
+    margin-top: 2.5rem;
+  }
+}
+
+body .jogoDaVelha h1 {
+  text-align: center;
+  font-family: 'Tapestry', cursive;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.quadrado {
+  text-align: center;
+  width: 3.125rem;
+  background: #e2e1e1;
+  display: inline-block;
+  padding: 2.5rem;
+  font-size: 3.75rem;
+  margin: 5px;
+  cursor: pointer;
+  color: #eee;
+}
+
+@media (max-width: 720px) {
+  .quadrado {
+    width: 2.5rem;
+  }
+}
+
+.jogador,
+.vencedor {
+  font-size: 1.3rem;
+  margin-top: 0.625rem;
+  margin-left: 5px;
+}
+
+.containerButton {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 1rem;
+}
+
+.button {
+  position: relative;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.button p {
+  position: absolute;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.button .border {
+  fill: none;
+  stroke-width: 1;
+}
+
+.button .bg-line {
+  fill: #5CA4EA;
+  stroke: #91C9FF;
+  -webkit-transition: all .8s ease-in-out;
+  transition: all .8s ease-in-out;
+}
+
+.button .hl-line {
+  stroke: #fff;
+  stroke-dasharray: 40 480;
+  stroke-dashoffset: 40;
+  -webkit-transition: all .8s ease-in-out;
+  transition: all .8s ease-in-out;
+}
+
+.button:hover .bg-line {
+  fill: #4F95DA;
+}
+
+.button:hover .hl-line {
+  stroke-dashoffset: -480;
+}
+/*# sourceMappingURL=style.css.map */
