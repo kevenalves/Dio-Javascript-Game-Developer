@@ -94,7 +94,7 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - [Snake Game](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/Snake-Game)
   - [Genius Game](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/Genius-Game)
   - [Jogo da Memória](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/Jogo-Memoria)
-  - [Jogo da Velha](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/jogoDaVelha)
+  - [Jogo da Velha](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/JogoDaVelha)
 
 </br>
 
