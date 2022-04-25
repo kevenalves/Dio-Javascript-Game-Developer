@@ -20,5 +20,5 @@ Projeto desenvolvido utilizando jQuery durante o bootcamp Órbi Game Developer. 
 ## 🖥️ preview final do projeto
 
 <p align="center">
-  <img src="https://j.gifs.com/MZXM4A.gif"/>
+  <img src="imgs\Helicoptero-Resgate.gif"/>
 </p>
