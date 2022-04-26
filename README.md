@@ -95,6 +95,7 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
   - [Genius Game](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/Genius-Game)
   - [Jogo da Memória](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/Jogo-Memoria)
   - [Jogo da Velha](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/JogoDaVelha)
+  - [Space Shoter](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/spaceShoter)
   - [Helicóptero Resgate](https://github.com/kevenalves/Dio-Javascript-Game-Developer/tree/main/HelipcopteroResgate)
 
 </br>
