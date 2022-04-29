@@ -88,8 +88,7 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
       <li> Arquitetura da internet das coisas, protocolo de comunicação e Cloud </li>
     </ul> </ul>
   </details>
-</br>
-
+  
   <details> <summary>Desenvolvimento avançado com Javascript</summary>
     <ul> <ul>
       <li> Desmitificando map, filter e reduce </li>
