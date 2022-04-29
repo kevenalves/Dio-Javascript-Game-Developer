@@ -69,7 +69,8 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
       <li> Curring, Hoisting, Imutabilidade, Tipos e Variáveis </li>
       <li> Funções e operadores </li>
       <li> Spreed, estruturas condicionais e repetição </li>
-      <li> Introdução a orientação a objetos e Design Patterns </li>
+      <li> Introdução a orientação a objetos</li>
+      <li> Design Patterns</li>
       <li> Criando e manipulando arrays </li>
       <li> Map, filter e reducer </li>
       <li> Iterar, buscar e transformar elementos </li>
@@ -85,6 +86,14 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
       <li> Integração REST e métodos HTTP </li>
       <li> Modelos Monolito e Microserviço </li>
       <li> Arquitetura da internet das coisas, protocolo de comunicação e Cloud </li>
+    </ul> </ul>
+  </details>
+</br>
+
+  <details> <summary>Desenvolvimento avançado com Javascript</summary>
+    <ul> <ul>
+      <li> Desmitificando map, filter e reduce </li>
+      <li> Entendendo Promisses de uma vez por todas </li>
     </ul> </ul>
   </details>
 </br>
