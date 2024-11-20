@@ -108,7 +108,6 @@ Repositório criado com o objetivo de compartilhar todos os meus projetos e desa
 
 </br>
 
-## 🚧 Repositório em contrução! 🚧
 
 </br>
 
